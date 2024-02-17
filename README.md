@@ -15,7 +15,7 @@ This repo provides the code for reproducing the stock trading experiments in the
 - finrl 0.3.5 
 
 ### Usage
-We provide the PST implementation and PST w/o MTPS on two stock markets: HK, US. 
+We provide the implementation of PST and PST w/o MTPS on two stock markets: HK, US. 
 For example, the command for reporducing the US market results (PST):
 ```
 cd ./st_us
